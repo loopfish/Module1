@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Uy/YX1dhkJOfxAPTIeuW/n45IcvEhtUDE+3FmWOYFnWVpZ6lTMjgjQM5Ztus9cSqHyBjLmdFhwBzgk5UPkfhQ==",
+  "dgSpecHash": "onxgBhDxNqCGAwnhGTtyiSUzUXjlAGJUobV5E+tELkIuRhcJxA3f91djIJ2zI3iUN6z8dDU5sYoGF4lkyZtbKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+  "projectFilePath": "c:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\014357\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\014357\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

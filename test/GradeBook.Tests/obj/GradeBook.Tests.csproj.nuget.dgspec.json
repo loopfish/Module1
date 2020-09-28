@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\test\\GradeBook.Tests\\GradeBook.Tests.csproj": {}
+    "c:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\test\\GradeBook.Tests\\GradeBook.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\src\\GradeBook\\GradeBook.csproj": {
+    "c:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "c:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\src\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "C:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\src\\GradeBook\\GradeBook.csproj",
+        "projectPath": "c:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\src\\GradeBook\\GradeBook.csproj",
         "packagesPath": "C:\\Users\\014357\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\src\\GradeBook\\obj\\",
+        "outputPath": "c:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\test\\GradeBook.Tests\\GradeBook.Tests.csproj": {
+    "c:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\test\\GradeBook.Tests\\GradeBook.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+        "projectUniqueName": "c:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
         "projectName": "GradeBook.Tests",
-        "projectPath": "C:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+        "projectPath": "c:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
         "packagesPath": "C:\\Users\\014357\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\test\\GradeBook.Tests\\obj\\",
+        "outputPath": "c:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\test\\GradeBook.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -89,8 +89,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\src\\GradeBook\\GradeBook.csproj": {
-                "projectPath": "C:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\src\\GradeBook\\GradeBook.csproj"
+              "c:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\src\\GradeBook\\GradeBook.csproj": {
+                "projectPath": "c:\\Users\\014357\\OneDrive - The Solicitors Regulation Authority\\Projects\\Training\\PluralSight\\Module1\\src\\GradeBook\\GradeBook.csproj"
               }
             }
           }
